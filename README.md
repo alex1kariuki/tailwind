@@ -1,6 +1,11 @@
-# Tailwind
+# Tailwind + Angular
 
-Trying out tailwind css in angular. 
+This project is for running a trial on tailwind css with angular. To run the project:
+- Git clone the project to your local environment.
+- Navigate into the project folder.
+- Run npm install to install all the dependencies of the project.
+- Run ng serve --open to run the development server and view the project.
+- Make awesome changes to the project 👨🏾‍💻.
 
 ## Web Screenshots
 
