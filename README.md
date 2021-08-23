@@ -9,5 +9,4 @@ Trying out tailwind css in angular.
 
 ## Mobile Screenshots
 
-![localhost_4200_(iPhone 6_7_8 Plus) (1)](https://user-images.githubusercontent.com/22114609/130458888-7f48dfb6-e21e-4a77-998d-d6344631997d.png)
-![localhost_4200_(iPhone 6_7_8 Plus)](https://user-images.githubusercontent.com/22114609/130458932-175bdae8-066f-4244-a863-37a76511e88b.png)
+![Tailwind](https://user-images.githubusercontent.com/22114609/130459554-f4f7bb81-0abf-42b3-808e-820c9d48ab01.png)
